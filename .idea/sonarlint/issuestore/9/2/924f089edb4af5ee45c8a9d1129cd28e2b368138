@@ -1,0 +1,15 @@
+
+K
+java:S5411"(Use a primitive boolean expression here.(Ì¡¡ƒúÿÿÿÿ8¿©ğÊº1
+A
+java:S1659"Declare "b" on a separate line.(è¾ôıÿÿÿÿ8£ıîÊº1
+I
+java:S3599",Use another way to initialize this instance.(í¾‘Ç8¨ıîÊº1
+v
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(í¾‘Ç8¨ıîÊº1
+X	java:S1251"<This block of commented-out lines of code should be removed.(ÊÍØï8­ıîÊº1
+t
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‚êÃëüÿÿÿÿ8®ıîÊº1
+G	java:S106`"+Replace this use of System.out by a logger.(Ïùæò8±ıîÊº1
+L	java:S106f"+Replace this use of System.out by a logger.(Óò¶‹şÿÿÿÿ8²ıîÊº1
+M	java:S106…"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8½ªğÊº1
